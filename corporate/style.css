@@ -56,6 +56,7 @@ header {
 
 .headerLeft{
   display: flex; 
+  align-items: center;
 }
 
 header ul {
